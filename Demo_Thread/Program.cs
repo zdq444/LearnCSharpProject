@@ -6,7 +6,8 @@ namespace Demo_Thread
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MakeTea makeTea = new MakeTea();
+            makeTea.Star();
         }
     }
 }
