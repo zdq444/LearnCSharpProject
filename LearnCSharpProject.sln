@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo1", "Demo1\Demo1.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo3_16", "Demo3_16\Demo3_16.csproj", "{BD1E0E96-B5F7-450A-AE3C-B99F74D382F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo3_17", "Demo3_17_Inheritance\Demo3_17.csproj", "{9240F2BE-A60D-44AF-A17D-1CB40B068420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo3_17", "Demo3_17_Inheritance\Demo3_17.csproj", "{9240F2BE-A60D-44AF-A17D-1CB40B068420}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo3_17_1", "Demo3_17_1\Demo3_17_1.csproj", "{70A15F3A-2BBF-44E2-95EE-DF2B521CC87A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo3_17_1", "Demo3_17_1\Demo3_17_1.csproj", "{70A15F3A-2BBF-44E2-95EE-DF2B521CC87A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
